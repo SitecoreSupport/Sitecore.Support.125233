@@ -1,3 +1,3 @@
 # Sitecore.Support.125233
 
-See [master branch](https://github.com/sitecoresupport/Sitecore.Support.125233) for details.
+Fix handle of errors in Flash Mode when using Media Upload.
